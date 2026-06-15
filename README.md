@@ -6,9 +6,15 @@ An AI-powered multi-CSV analytics platform that allows users to upload datasets,
 
 # Live Demo
 
-Frontend: `<ADD_FRONTEND_URL_HERE>`
+Frontend: `https://dataanalystai.netlify.app/`
 
-Backend API: `<ADD_BACKEND_URL_HERE>`
+Backend API: `https://dataanalystai.onrender.com/`
+
+---
+
+# Video pitch
+
+Video - `https://youtu.be/El8V6z37ggQ`
 
 ---
 
